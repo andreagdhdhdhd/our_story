@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 2916059801
+    locked: 0
+  - name: edificiosAtras
+    uniqueID: 3754184595
+    locked: 0
+  - name: edificios
+    uniqueID: 4088683941
+    locked: 0
+  - name: carril
+    uniqueID: 1339053917
+    locked: 0
+  - name: arboles
+    uniqueID: 3690065179
+    locked: 0
+  - name: banco
+    uniqueID: 1200273087
+    locked: 0
+  - name: Maria
+    uniqueID: 2732127151
+    locked: 0
+  - name: New Layer
+    uniqueID: 1313854711
+    locked: 0

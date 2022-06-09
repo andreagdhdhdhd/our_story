@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/primeraEscena/noticias.unity
+    guid: deef6648cbfd6534690d472c864ef7f1
+  - enabled: 1
+    path: Assets/Scenes/primeraEscena/cafe.unity
+    guid: 278aaa770a930b347a14b6df18c5c025
+  - enabled: 1
+    path: Assets/Scenes/segundaEscena/flashback.unity
+    guid: 7fd8c9b63f972264994905443ca14706
+  - enabled: 1
+    path: Assets/Scenes/segundaEscena/parque.unity
+    guid: 964ecd04eba98e3468f729fdc0d10dd7
+  - enabled: 1
+    path: Assets/Scenes/cuartaEscena/mariaPensativa2.unity
+    guid: 03a6047429ac6b04a828236ede741a58
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/movil.unity
+    guid: d142148bdd7057d47a84d8b21bc2cc50
+  - enabled: 1
+    path: Assets/Scenes/quintaEscena/creditos.unity
+    guid: d59dc0d321cf2fb48addc200575307fd
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/chat.unity
+    guid: 5adb3912baee1e841bcce59a3ca562a1
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/floristeriaDentro.unity
+    guid: c56d3026ce194ac40a8bd88090d9ce4c
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/floristeriaFachada.unity
+    guid: b7555f91b58e86b45930ba30e315b028
+  - enabled: 1
+    path: Assets/Scenes/cuartaEscena/mariaPensativa.unity
+    guid: bb2448e0a5084224391d1b9c3f8b59f2
+  - enabled: 1
+    path: Assets/Scenes/cuartaEscena/florMinijuego.unity
+    guid: 3e410e9398eb0e34fa39cb77431ca2fe
+  - enabled: 0
+    path: Assets/Scenes/terceraEscena/llamada.unity
+    guid: 9ec46dd8c6450e74ea71d124f3b4329b
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/puzzle.unity
+    guid: 48521bf430569d34b9e113f7aae852fd
+  - enabled: 1
+    path: Assets/Scenes/quintaEscena/mariaFeliz.unity
+    guid: ec8262c33292bec49aa3742265af203b
+  - enabled: 1
+    path: Assets/Scenes/quintaEscena/aranyaFeliz.unity
+    guid: a22e93e2dfa5a1f45bc9380e69752013
+  - enabled: 1
+    path: Assets/Scenes/quintaEscena/convivenciaFeliz.unity
+    guid: 1a54d51ae29ddf840aa02544f966790d
+  - enabled: 1
+    path: Assets/Scenes/quintaEscena/interiorTienda.unity
+    guid: e119b951cd23d3348b8cf169f8205004
+  - enabled: 1
+    path: Assets/Scenes/terceraEscena/telefono.unity
+    guid: 58659ae97f7d24d4d8fe14d5a42d5172
+  m_configObjects: {}
